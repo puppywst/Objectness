@@ -1,7 +1,13 @@
 /************************************************************************/
 /* This source code is free for both academic and industry use.         */
 /* Some important information for better using the source code could be */
-/* found in the project page: http://mmcheng.net/bing					*/
+/* found in the project page: http://mmcheng.net/bing
+					*/
+
+//test cmd + v on ipad for editor
+//filter the category person out, and 
+//#include <iostream>
+
 /************************************************************************/
 
 #pragma once
